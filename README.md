@@ -1,3 +1,4 @@
+
 # DIO-Bootcamp-HEINEKEN-Desafio-Criativo
 Desafio Criativo: Acelerando Sua Produtividade Pessoal com IA
 
@@ -24,6 +25,8 @@ Preparei um cronograma diário estruturado em blocos curtos de 15 a 20 minutos. 
 | **Sexta-feira** | Manhã ou Tarde<br>*(15 min)* | **Alongamento Suave** | **15 min:** Alongamentos estáticos sentados ou em pé, focando nas costas, pernas e braços. Sem pressa, sustentando cada posição por 20 a 30 segundos. |
 | **Sábado** | Flexível<br>*(20 min)* | **Integração de Movimentos** | **20 min:** Prática livre unindo os movimentos de Tai Chi aprendidos na semana (Passo Básico + Afastar as Nuvens) de forma contínua e relaxada. |
 | **Domingo** | Flexível<br>*(15 min)* | **Recuperação Ativa** | **15 min:** Apenas respiração abdominal consciente e uma caminhada bem leve de lazer. O objetivo aqui é apenas não ficar 100% parado. |
+---
+<img width="1408" height="768" alt="Gemini_Generated_Image_w9n0fmw9n0fmw9n0" src="https://github.com/user-attachments/assets/e80fe0a5-5f6d-406f-a8e4-a6babf76f026" />
 
 ---
 
